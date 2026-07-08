@@ -1,0 +1,7 @@
+[lanhep]
+git-tree-sha1 = "a12f255ccc17f0d73f07ab5f2244cbb159323bbd"
+lazy = true
+
+  [[lanhep.download]]
+  url = "https://theory.sinp.msu.ru/~semenov/lhep400.tgz"
+  sha256 = "881dcfad962e21bfe76531799a131b2f2dfc5cfaa3414bb80ab4f14955b6c56b"
